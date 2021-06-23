@@ -4,7 +4,7 @@
 # probot
 - project: probot
   role: Contributor
-  duration: 2016 &mdash; Present
+  duration: 2016 &mdash; 2017
   url: "https://github.com/probot/probot"
   description: A framework for building GitHub Apps to automate and improve your workflow
 
@@ -14,3 +14,9 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+
+# GitHub WebProject
+- project: GitHub Web Projects
+  role: Contributor
+  duration: 2017 &mdash; Present
+  description: Present projects in small webpage for Github Classroom
